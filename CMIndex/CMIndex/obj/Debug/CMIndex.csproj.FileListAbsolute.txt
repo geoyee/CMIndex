@@ -1,0 +1,11 @@
+E:\C# file\CMIndex\CMIndex\CMIndex\bin\Debug\Herbal.mdb
+E:\C# file\CMIndex\CMIndex\CMIndex\bin\Debug\CMIndex.exe.config
+E:\C# file\CMIndex\CMIndex\CMIndex\bin\Debug\CMIndex.exe
+E:\C# file\CMIndex\CMIndex\CMIndex\bin\Debug\CMIndex.pdb
+E:\C# file\CMIndex\CMIndex\CMIndex\obj\Debug\CMIndex.csprojAssemblyReference.cache
+E:\C# file\CMIndex\CMIndex\CMIndex\obj\Debug\CMIndex.Form1.resources
+E:\C# file\CMIndex\CMIndex\CMIndex\obj\Debug\CMIndex.Properties.Resources.resources
+E:\C# file\CMIndex\CMIndex\CMIndex\obj\Debug\CMIndex.csproj.GenerateResource.cache
+E:\C# file\CMIndex\CMIndex\CMIndex\obj\Debug\CMIndex.csproj.CoreCompileInputs.cache
+E:\C# file\CMIndex\CMIndex\CMIndex\obj\Debug\CMIndex.exe
+E:\C# file\CMIndex\CMIndex\CMIndex\obj\Debug\CMIndex.pdb
